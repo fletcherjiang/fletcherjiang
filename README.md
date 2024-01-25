@@ -34,7 +34,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fletcherjiang/fletcherjiang)
+![views](https://visitor-badge-deno.deno.dev/fletcherjiang.fletcherjiang.svg)
 <br />
 <br />
 
