@@ -40,5 +40,6 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=fletcherjiang&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=fffefe)
+![](https://github-readme-stats.vercel.app/api?username=fletcherjiang&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2f80ed&icon_color=586069&text_color=434d58&bg_color=fffefe)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fletcherjiang&hide_progress=true)
