@@ -2,7 +2,7 @@
 
 I am Fletcher JIANG, a diligent Computer Science undergraduate at The Hong Kong Polytechnic University. Being tech-savvy and having a passion for continuous learning, I am eager to leverage my technical skills to excel academically and contribute creatively to collaborative projects.
 
-### 🔭 Have a look at my [website](https://imjyy.com).
+### 🔭 Have a look at my [website](https://yyjiang.com).
 
 
 ## ⚡ Tech Stack
